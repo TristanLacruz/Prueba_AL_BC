@@ -1,0 +1,17 @@
+{
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+    ],
+    "al.backgroundCodeAnalysis": true,
+    "al.ruleSetPath": ".vscode/minsait.ruleset.json",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.ExtensionObjectNamePattern": "GEN<BaseName>", //Dentro del archivo .al le añade "Customer list" a la pageextension de Customer list
+    "CRS.FileNamePattern": "<ObjectType> <ObjectId> - <ObjectNameShort>.al", //El archivo.al nombre de fuera para objetos nuevos
+    "CRS.FileNamePatternExtensions": "<ObjectType> <ObjectId> - <ObjectNameShort>.al", //El archivo.al nombre de fuera para objetos que extienden core
+    "CRS.RenameWithGit": false, //si no activamos esto cuando se renombra pierdes todo el track de los archivos en azure devops
+    "xliffSync.baseFile": "CROPFOODS.GENERAL.g.xlf", 
+    "al.enableCodeAnalysis": false,
+    "al.enableCodeActions": false,
+    "editor.codeLens": false
+}
