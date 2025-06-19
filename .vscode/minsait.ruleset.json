@@ -1,0 +1,221 @@
+{
+    "name": "Minsait",
+    "description": "Reglas de validación para desarrollos de Minsait",
+    "rules": [
+        {
+            "id": "AA0001",
+            "action": "None"
+        },
+        {
+            "id": "AA0002",
+            "action": "None"
+        },
+        {
+            "id": "AA0003",
+            "action": "None"
+        }
+        ,
+        {               
+            "id": "AA0005",                   
+            "action": "Warning"
+        },
+        
+        {
+            "id": "AA0008",
+            "action": "Hidden"
+        }
+        ,
+        {
+            "id": "AA0013",
+            "action": "None"
+        }
+        ,
+        {
+            "id": "AA0018",
+            "action": "None"
+        },
+        {
+            "id": "AA0021",
+            "action": "None"
+        },
+        {
+            "id": "AA0022",
+            "action": "None"
+        },
+        {
+            "id": "AA0040",
+            "action": "None"
+        },
+        {
+            "id": "AA0073",
+            "action": "None"
+        },
+        {
+            "id": "AA0074",
+            "action": "None"
+        },
+        {
+            "id": "AA0087",
+            "action": "None"
+        },
+        {
+            "id": "AA0100",
+            "action": "None"
+        },
+        {
+            "id": "AA0101",
+            "action": "None"
+        },
+        {
+            "id": "AA0102",
+            "action": "None"
+        },
+        {
+            "id": "AA0103",
+            "action": "None"
+        },
+        {
+            "id": "AA0104",
+            "action": "None"
+        },
+        {
+            "id": "AA0105",
+            "action": "Warning"
+        },
+        {
+            "id": "AA0106",
+            "action": "Warning"
+        },
+        {
+            "id": "AA0131",
+            "action": "None"
+        },
+        {
+            "id": "AA0139",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0150",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0161",
+            "action": "None"
+        },
+        {
+            "id": "AA0181",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0201",
+            "action": "None"
+        },
+        {
+            "id": "AA0202",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0207",
+            "action": "Warning"
+        },
+        {
+            "id": "AA0210",
+            "action": "None"
+        },
+        {
+            "id": "AA0214",
+            "action": "None"
+        },
+        {
+            "id": "AA0215",
+            "action": "None"
+        },
+        {
+            "id": "AA0216",
+            "action": "None"
+        },
+        {
+            "id": "AA0217",
+            "action": "None"
+        },
+        {
+            "id": "AA0218",
+            "action": "None"
+        },
+        {
+            "id": "AA0219",
+            "action": "None"
+        },
+        
+        {
+            "id": "AA0220",
+            "action": "None"
+        },
+        {
+            "id": "AA0221",
+            "action": "None"
+        },
+        {
+            "id": "AA0223",
+            "action": "None"
+        },
+        {
+            "id": "AA0224",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0225",
+            "action": "None"
+        },
+        {
+            "id": "AA0226",
+            "action": "None"
+        },
+        {
+            "id": "AA0227",
+            "action": "None"
+        },
+        {
+            "id": "AA0228",
+            "action": "None"
+        },
+        {
+            "id": "AA0231",
+            "action": "None"
+        },
+        {
+            "id": "AA0232",
+            "action": "None"
+        },
+        {
+            "id": "AA0233",
+            "action": "None"
+        },
+        {
+            "id": "AA0235",
+            "action": "None"
+        },
+        {
+            "id": "AA0237",
+            "action": "None"
+        },
+        {
+            "id": "AA0240",
+            "action": "None"
+        },
+        {
+            "id": "AA0448",
+            "action": "None"
+        },
+        {
+            "id": "AA0462",
+            "action": "None"
+        },
+        {
+            "id": "AA0470",
+            "action": "None"
+        }
+       
+       
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "f59bfdb2-0cb4-46f1-a3c3-b98cce5717d8",
+  "name": "GestionAlquilerVideojuegos",
+  "publisher": "Minsait",
+  "version": "1.0.0.1", 
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "res/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 56000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "target": "OnPrem",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "supportedLocales": [ "en-US" ]
+
+}

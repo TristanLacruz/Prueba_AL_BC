@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="es-Es" target-language="en-US" original="GestionAlquilerVideojuegos">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1215189365 - NamedType 916533467" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Este campo no puede dejarse en blanco.</source>
+          <target>This field cannot be blank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - NamedType EsteCampoNoPuedeEstarVacioErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estado</source>
+          <target>Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 2061295718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de alquiler</source>
+          <target>Rental Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Fecha Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 3224680477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de devolución</source>
+          <target>Return Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Fecha Devolucion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 1416488267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego</source>
+          <target>Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Foto videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. alquiler</source>
+          <target>Rental No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 2324120181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. cliente</source>
+          <target>Customer No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field No. Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 911298992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. videojuego</source>
+          <target>Game No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field No. Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 3612309607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del cliente</source>
+          <target>Customer Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Nombre Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 1292546478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Nombre Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 1295158017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notas</source>
+          <target>Notes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Notas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1215189365 - Field 3492811611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo de alquiler</source>
+          <target>Rental Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Alquiler - Field Tipo Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279317877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente Alquiler Temporal</source>
+          <target>Temporary Rental Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cliente Alquiler Temporal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279317877 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Cliente</source>
+          <target>Customer Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cliente Alquiler Temporal - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279317877 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cliente</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cliente Alquiler Temporal - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279317877 - Field 464214628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Veces alquilado</source>
+          <target>Times Rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cliente Alquiler Temporal - Field Veces alquilado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 600579808 - Field 289581544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duración del Prestamo por Defecto</source>
+          <target>Default Loan Duration</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Configuracion Alquiler - Field Duración Prestamo Defecto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 600579808 - Field 1032659952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Máximos Alquileres en Activo</source>
+          <target>Maximum Active Rentals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Configuracion Alquiler - Field Máximos Alquileres en Activo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 600579808 - Field 834293400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Serie del Alquiler</source>
+          <target>Rental Serial No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Configuracion Alquiler - Field No. Serie Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 600579808 - Field 180677486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del Alquiler</source>
+          <target>Rental Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Configuracion Alquiler - Field Nombre Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2880964404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mis Clientes</source>
+          <target>My Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mis Clientes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2880964404 - Field 153684539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Cliente</source>
+          <target>Customer ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mis Clientes - Field ID Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2880964404 - Field 3612309607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Cliente</source>
+          <target>Customer Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mis Clientes - Field Nombre Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2880964404 - Field 3705465039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Videojuegos Alquilados</source>
+          <target>Rented Games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Mis Clientes - Field Videojuegos Alquilados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 827082046 - Field 1607971347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Categoria</source>
+          <target>Category</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempImportVideojuego - Field Categoria - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 827082046 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempImportVideojuego - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 827082046 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempImportVideojuego - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 827082046 - Field 1292546478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempImportVideojuego - Field Nombre Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 827082046 - Field 1572371345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plataforma</source>
+          <target>Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TempImportVideojuego - Field Plataforma - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3854155286 - Method 128772488 - NamedType 973351683" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Desea crear un nuevo alquiler para el cliente %1?</source>
+          <target>Do you want to create a new rental for customer %1?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Nombre del cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Cliente Event Subscriber - Method OnAfterValidateName - NamedType ConfirmMessage</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alquiler Card</source>
+          <target>Rental Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 2950845476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estado del alquiler</source>
+          <target>Rental Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Estado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estado</source>
+          <target>Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 2061295718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de alquiler</source>
+          <target>Rental Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Fecha Alquiler - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 2061295718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de alquiler</source>
+          <target>Rental Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Fecha Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 3224680477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de devolución</source>
+          <target>Return Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Fecha Devolucion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 3224680477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de devolución</source>
+          <target>Return Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Fecha Devolucion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 431949099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego alquilado</source>
+          <target>Rented Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Foto Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 431949099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego</source>
+          <target>Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Foto Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de alquiler</source>
+          <target>Rental No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. alquiler</source>
+          <target>Rental No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 911298992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de videojuego alquilado</source>
+          <target>Rented Game No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control No. Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 911298992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Videojuego</source>
+          <target>Game No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control No. Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 1993140260 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del cliente que alquila el videojuego</source>
+          <target>Customer Name renting the game</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Nombre del cliente - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 1993140260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del cliente</source>
+          <target>Customer Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Nombre del cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 1292546478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego alquilado</source>
+          <target>Rented Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Nombre Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 1292546478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre Videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Nombre Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 3492811611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo de alquiler</source>
+          <target>Rental Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Tipo Alquiler - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3398169881 - Control 3492811611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo de alquiler</source>
+          <target>Rental Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Card - Control Tipo Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Información del alquiler</source>
+          <target>Rental Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 2642663106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grupo de Detalles del alquiler</source>
+          <target>Rental Details Group</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control Grupo Detalles Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 2950845476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica el estado del alquiler.</source>
+          <target>Specifies the rental status.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control Estado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 2061295718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica la fecha del alquiler.</source>
+          <target>Specifies the rental date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control Fecha Alquiler - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 3224680477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica la fecha de devolución.</source>
+          <target>Specifies the return date.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control Fecha Devolucion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 431949099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego alquilado.</source>
+          <target>Rented Game Photo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control Foto Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica el número del alquiler.</source>
+          <target>Specifies the rental number.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 945186140 - Control 911298992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica el videojuego alquilado.</source>
+          <target>Specifies the rented game.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler Info FactBox - Control No. Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2137621835 - Action 1740714178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Devolver Videojuego</source>
+          <target>Return Game</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler List - Action Devolver Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2137621835 - Action 1099359590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generar Excel Alquileres</source>
+          <target>Generate Excel Rentals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler List - Action Generar Excel Alquileres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2137621835 - Action 1307846776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generar Recibo Cliente</source>
+          <target>Generate Customer Receipt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Alquiler List - Action Generar Recibo Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 855820298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuración Alquileres Card</source>
+          <target>Rental Configuration Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Configuracion Alquileres Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 855820298 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Configuracion Alquileres Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1641973617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bienvenido a Business Central</source>
+          <target>Welcome to Business Central</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Headline Bienvenida - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1641973617 - Control 1283650361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mensaje de Bienvenida</source>
+          <target>Welcome Message</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Headline Bienvenida - Control WelcomeText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4114547931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Historico Alquileres List</source>
+          <target>Rental History List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Historico Alquileres List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4114547931 - Action 2512140887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ver Detalles</source>
+          <target>View Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Historico Alquileres List - Action Ver detalles del registro - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripción del videojuego</source>
+          <target>Game Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripción</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 833959274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indica si el videojuego está alquilado</source>
+          <target>Indicates whether the game is rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Está disponible - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 833959274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Está alquilado</source>
+          <target>Rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Está disponible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. del artículo</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. del artículo</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 3880766857 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Nombre del videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 3880766857 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Nombre del videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego</source>
+          <target>Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego</source>
+          <target>Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 1572371345 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plataforma de videojuegos</source>
+          <target>Game Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Plataforma - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 1572371345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plataforma</source>
+          <target>Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Plataforma - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 464214628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de veces que se ha alquilado el videojuego</source>
+          <target>Number of times the game has been rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Veces alquilado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Control 464214628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Veces alquilado</source>
+          <target>Times Rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Control Veces alquilado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Action 545227977 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exportar videojuegos a un archivo de Excel.</source>
+          <target>Export games to an Excel file.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Action Exportar videojuegos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Action 545227977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exportar videojuegos</source>
+          <target>Export Games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Action Exportar videojuegos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Action 1527868344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generar Excel Videojuegos más alquilados</source>
+          <target>Generate Excel Most Rented Games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Action Excel de videojuegos más alquilados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Action 3394407866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importar videojuegos desde un archivo de Excel.</source>
+          <target>Import games from an Excel file.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Action Importar videojuegos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454746502 - Action 3394407866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importar videojuegos</source>
+          <target>Import Games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lista de Videojuegos - Action Importar videojuegos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 767178359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mis Clientes</source>
+          <target>My Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mis Clientes Listpart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 767178359 - Control 2300407643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID del Cliente</source>
+          <target>Customer ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mis Clientes Listpart - Control ID cliente - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 767178359 - Control 3612309607 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del Cliente</source>
+          <target>Customer Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mis Clientes Listpart - Control Nombre Cliente - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 767178359 - Control 3705465039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de videojuegos alquilados por el cliente</source>
+          <target>Number of games rented by the customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Mis Clientes Listpart - Control Videojuegos Alquilados - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2454343080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MyRoleCenter</source>
+          <target>MyRoleCenter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Role Center Alquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454343080 - Action 478106351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Abrir Lista Alquiler</source>
+          <target>Open Rental List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Role Center Alquiler - Action Abrir lista de alquileres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454343080 - Action 274173169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Abrir lista de clientes</source>
+          <target>Open Customer List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Role Center Alquiler - Action Abrir lista de clientes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454343080 - Action 3281470420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Abrir lista de videojuegos</source>
+          <target>Open Game List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Role Center Alquiler - Action Abrir lista de videojuegos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2454343080 - Action 802203389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actualizar Clientes</source>
+          <target>Update Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Role Center Alquiler - Action Importar Clientes Existentes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1753985738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Información del videojuego</source>
+          <target>Game Information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1753985738 - Control 2652916697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alquileres por Cliente</source>
+          <target>Rentals by Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego FactBox - Control ClienteAlquiler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1753985738 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detalles del videojuego</source>
+          <target>Game Details</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego FactBox - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1753985738 - Control 1292546478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego FactBox - Control Nombre Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1753985738 - Control 2862324502 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número total de veces que se ha alquilado</source>
+          <target>Total number of times rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego FactBox - Control Total veces alquilado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Videojuego Info FactBox</source>
+          <target>Game Info FactBox</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Control 3880766857 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Control Nombre del videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foto del videojuego</source>
+          <target>Game Photo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Control 1572371345 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plataforma de videojuegos</source>
+          <target>Game Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Control Plataforma - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1349996700 - Control 464214628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de veces que se ha alquilado el videojuego</source>
+          <target>Number of times the game has been rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Videojuego Info FactBox - Control Veces alquilado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 598769086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Videojuegos alquilados y clientes</source>
+          <target>Rented Games and Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Alquileres Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 802203389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Importar Clientes Existentes</source>
+          <target>Import Existing Customers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Importar Clientes Existentes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3390134968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recibo Cliente</source>
+          <target>Customer Receipt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Recibo Cliente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1001432166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Videojuegos más alquilados</source>
+          <target>Most Rented Games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Videojuegos Mas Alquilados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1001432166 - Control 347595009 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filtrar videojuegos alquilados al menos este número de veces.</source>
+          <target>Filter rented games at least this number of times.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Videojuegos Mas Alquilados - Control MinAlquileres - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1001432166 - Control 347595009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mínimo de veces alquilado</source>
+          <target>Minimum times rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Videojuegos Mas Alquilados - Control MinAlquileres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1849562008 - Action 4033061078 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Crear un nuevo alquiler para el cliente</source>
+          <target>Create a new rental for the customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer Card - Action Crear Alquileres - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1849562008 - Action 4033061078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Crear Alquileres</source>
+          <target>Create Rentals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer Card - Action Crear Alquileres - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1849562008 - Control 1632912044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Número de alquileres activos del cliente</source>
+          <target>Number of active rentals for the customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer Card - Control Alquileres activos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1849562008 - Control 1053985949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Número de videojuegos alquilados por el cliente</source>
+          <target>Number of games rented by the customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer Card - Control NumVideojuegosAlquilados - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1849562008 - Control 1850501526 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Indica si el cliente tiene al menos un alquiler caducado</source>
+          <target>Indicates whether the customer has at least one expired rental</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer Card - Control TieneAlquilerCaducado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 399691774 - Control 1632912044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Número de alquileres activos del cliente</source>
+          <target>Number of active rentals for the customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer List - Control Alquileres activos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 399691774 - Control 1155825758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Indica si el cliente tiene al menos un alquiler caducado</source>
+          <target>Indicates whether the customer has at least one expired rental</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENCustomer List - Control Tiene alquiler caducado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1939118855 - Control 1292546478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENItem Card - Control Nombre Videojuego - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1939118855 - Control 3472499607 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Indica si el videojuego está alquilado</source>
+          <target>Indicates whether the game is rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENItem Card - Control Esta alquilado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1939118855 - Control 1572371345 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Plataforma de videojuegos</source>
+          <target>Game Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENItem Card - Control Plataforma - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1939118855 - Control 464214628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Número de veces que se ha alquilado el videojuego</source>
+          <target>Number of times the game has been rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GENItem Card - Control Veces alquilado - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3460254956 - Field 1632912044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Alquileres activos</source>
+          <target>Active Rentals</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENCustomer - Field Alquileres activos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3460254956 - Field 1053985949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Número de videojuegos alquilados</source>
+          <target>Number of rented games</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENCustomer - Field NumVideojuegosAlquilados - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3460254956 - Field 1850501526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Tiene alquiler caducado</source>
+          <target>Has expired rental</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENCustomer - Field TieneAlquilerCaducado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 486926611 - Field 3683401591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Está Alquilado</source>
+          <target>Is Rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENItem - Field Esta Alquilado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 486926611 - Field 1292546478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Nombre del videojuego</source>
+          <target>Game Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENItem - Field Nombre Videojuego - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 486926611 - Field 1572371345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Plataforma de videojuegos</source>
+          <target>Game Platform</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENItem - Field Plataforma - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 486926611 - Field 464214628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Número de veces alquilado</source>
+          <target>Number of times rented</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GENItem - Field Veces alquilado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 719422417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Perfil Alquiler Videojuegos</source>
+          <target>Rental Video Games Profile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Perfil Alquiler Videojuegos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 719422417 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Perfil de cliente para Alquiler de Videojuegos</source>
+          <target>Customer Profile for Video Game Rental</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Perfil Alquiler Videojuegos - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 3111520584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plataformas</source>
+          <target>Platforms</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Plataformas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1977705298 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target>Permissions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PermissionesAlquiler - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
